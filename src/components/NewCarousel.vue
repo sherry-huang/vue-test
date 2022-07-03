@@ -9,8 +9,9 @@
   </a-carousel>
 </template>
 <script>
+import img from './cat-2.jpg'
 const baseUrl1 = 'https://pic.pimg.tw/acatandcats/1344952155-375602234.jpg';
-const baseUrl2 = 'https://images2.gamme.com.tw/news2/2017/49/24/q6CVnZ2YlKSdqw.jpg';
+const baseUrl2 = img;
 const baseUrl3 = 'https://4.bp.blogspot.com/-FI6LfVLyjWk/Xpq4MCak6MI/AAAAAAAADuU/_Cn5CV7xE9QUj5zT9EJcYTB4i1Ot4sdVQCLcBGAsYHQ/s1600/5cbc5e7c10abfdbb2c0edb6112de3234_s.jpg';
 const baseUrl =
   'https://raw.githubusercontent.com/vueComponent/ant-design-vue/master/components/vc-slick/assets/img/react-slick/';
